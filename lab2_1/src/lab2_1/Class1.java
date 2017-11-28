@@ -6,5 +6,9 @@ public class Class1 {
 		System.out.println("Hello World");
 
 	}
+	
+	public void firstMethod() {
+		
+	}
 
 }
